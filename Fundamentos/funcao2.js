@@ -3,7 +3,7 @@ const imprimirSoma = function(a = 0,b = 0){
     console.log(a+b);
 }
 imprimirSoma()
-
+imprimirSoma(99,1)
 //armazenando funcao arrow em uma variavel
 
 const soma = (a = 0,b = 0) => {
